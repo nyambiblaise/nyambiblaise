@@ -5,9 +5,9 @@
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 💻 I'm a Software Developer with over 7️⃣ years of coding experience as of 2️⃣0️⃣2️⃣3️⃣.
 - 🌱 I am currently learning **Machine Learning and Julia**
-- 📝 I currently work with <a href="techworld237.com" target="blank">TechWorld Solutions 🌐👨‍💻</a>
+- 📝 I currently work with <a href="https://techworld237.com" target="blank">TechWorld Solutions 🌐👨‍💻</a>
 - 📫 You can reach me <a href="mailto:nyambiblaise92@gmail.com">📧 My E-mail</a>
-- 🌱 I offer online training programs on <a href="http://techworld237.com/training-offers/" target="blank">👨‍🔧🚀📥🚸</a>
+- 🌱 I offer online training programs on <a href="https://techworld237.com/training-offers/" target="blank">👨‍🔧🚀📥🚸</a>
 - ⚡I can efficiently code and can optimize an existing software.
 - 📫 WhatsApp me: <a href="https://wa.me/+237679194380"><img src="https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&logo=whatsapp&logoColor=white"></a>
 
