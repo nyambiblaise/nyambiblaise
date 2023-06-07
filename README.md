@@ -9,8 +9,7 @@
 - 📫 You can reach me <a href="mailto:nyambiblaise92@gmail.com">📧 My E-mail</a>
 - 🌱 I offer online training programs on <a href="http://techworld237.com/training-offers/" target="blank">👨‍🔧🚀📥🚸</a>
 - ⚡I can efficiently code and can optimize an existing software.
-- 📫 WhatsApp me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+237679194380)
-
+- 📫 WhatsApp me: <a href="https://wa.me/+237679194380"><img src="https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&logo=whatsapp&logoColor=white"></a>
 
 - ⚡ My **Mentor** always tells me this: **“Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.**
 
@@ -29,6 +28,6 @@
 <h3 align="left">Support Me:</h3>
 <p><a href="https://campay.net/pay/techworld-solutions-785-1686164481-NY/"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nyambi Blaise" /></a></p><br>
 <p><img align="left" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=nyambiblaise" alt="nyambiblaise" /></p>
-<p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambiblaise&layout=compact"/>
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambiblaise&layout=compact"/>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=nyambiblaise&show_icons=true&theme=radical"/>
 </p>
