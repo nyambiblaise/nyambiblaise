@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://wa.me/+237679194380" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=d5ntEsf0JRhM&format=png" alt="Nyambi Blaise" height="30" width="40" /></a><a href="https://twitter.com/nyambiblaise1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyambiblaise" height="30" width="40" /></a>
 <a href="https://instagram.com/nyambiblaise1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyambiblaise" height="30" width="40" /></a><a href="https://linkedin.com/in/nyambiblaise" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="nyambiblaise" height="30" width="40" /></a>
-<a href="https://facebook.com/lazydev007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nyambiblaise" height="30" width="40" /></a>
+<a href="https://facebook.com/nyambiblaise1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nyambiblaise" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nyambiblaise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nyambi Blaise" height="30" width="40" /></a>
 </p>
 
