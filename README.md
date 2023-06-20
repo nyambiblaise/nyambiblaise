@@ -7,7 +7,7 @@
 - 🌱 I am currently learning **Machine Learning and Julia**
 - 📝 I currently work with <a href="https://techworld237.com" target="blank">TechWorld Solutions 🌐👨‍💻</a>
 - 📫 You can reach me <a href="mailto:nyambiblaise1@gmail.com">📧 My E-mail</a>
-- 🌱 I offer online training programs on <a href="https://techworld237.com/training-offers/" target="blank">👨‍🔧🚀📥🚸</a>
+- 🌱 I offer online training programs on <a href="https://techworld237.com/training-offers/" target="_blank">👨‍🔧🚀📥🚸</a>
 - ⚡I can efficiently code and can optimize an existing software.
 - 📫 WhatsApp me: <a href="https://wa.me/+237679194380"><img src="https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&logo=whatsapp&logoColor=white"></a>
 
