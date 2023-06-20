@@ -3,10 +3,10 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="150px"  /></p>
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 💻 I'm a Software Developer with over 7️⃣ years of coding experience as of 2️⃣0️⃣2️⃣3️⃣.
+- 💻 I'm a Software Developer with over 7️⃣ years of coding experience.
 - 🌱 I am currently learning **Machine Learning and Julia**
 - 📝 I currently work with <a href="https://techworld237.com" target="blank">TechWorld Solutions 🌐👨‍💻</a>
-- 📫 You can reach me <a href="mailto:nyambiblaise92@gmail.com">📧 My E-mail</a>
+- 📫 You can reach me <a href="mailto:nyambiblaise1@gmail.com">📧 My E-mail</a>
 - 🌱 I offer online training programs on <a href="https://techworld237.com/training-offers/" target="blank">👨‍🔧🚀📥🚸</a>
 - ⚡I can efficiently code and can optimize an existing software.
 - 📫 WhatsApp me: <a href="https://wa.me/+237679194380"><img src="https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&logo=whatsapp&logoColor=white"></a>
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://wa.me/+237679194380" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=d5ntEsf0JRhM&format=png" alt="Nyambi Blaise" height="30" width="40" /></a><a href="https://twitter.com/lazydev007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyambiblaise" height="30" width="40" /></a>
-<a href="https://instagram.com/lazydev007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyambiblaise" height="30" width="40" /></a><a href="https://linkedin.com/in/nyambiblaise92" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="nyambiblaise" height="30" width="40" /></a>
+<a href="https://instagram.com/lazydev007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyambiblaise" height="30" width="40" /></a><a href="https://linkedin.com/in/nyambiblaise" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="nyambiblaise" height="30" width="40" /></a>
 <a href="https://facebook.com/lazydev007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nyambiblaise" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nyambiblaise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nyambi Blaise" height="30" width="40" /></a>
 </p>
