@@ -4,7 +4,7 @@
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 💻 I'm a Software Developer with over 7️⃣ years of coding experience.
-- 🌱 I am currently learning **Machine Learning and Julia**
+- 🌱 I am currently Studying **Cybersecurity Analysis**
 - 📝 I currently work with <a href="https://techworld237.com" target="blank">TechWorld Solutions 🌐👨‍💻</a>
 - 📫 You can reach me <a href="mailto:nyambiblaise1@gmail.com">📧 My E-mail</a>
 - 🌱 I offer online training programs on <a href="https://techworld237.com/training-offers/" target="_blank">👨‍🔧🚀📥🚸</a>
