@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Nyambi Blaise (Łăž&yacute; &lt;Dəv /&gt; 007 💻🧠🫣🙈)</h1>
 <p>🔭&nbsp;I am a passionate IT Security Enthusiast🌱 with over 7️⃣ years IT experience in IT Security, IT Support and Software Development, and a strong foundation in DevOps<a href="https://techworld237.com" target="blank">🌐👨&zwj;💻</a> and now working towards specializing in Purple Team operations ( Cyber Incident Response, Threat Hunting, Vulnerability Management, and Threat Intelligence, Threat Hunting, Penetration Testing📝) 💻.</p>
+
 <p>Previously, I worked as a Software Developer and contributing to frontend and backend for building web applications where i developed and optimized diverse software for different clients <a href="https://techworld237.com/training-offers/" target="_blank" rel="noopener">👨&zwj;🔧🚀📥🚸</a> . - 💻 I'm currently working as a <strong>Cybersecurity Analyst🌱&nbsp;</strong>in Canada.</p>
 <p>Email:📫&nbsp;<a href="mailto:nyambi[noSpace]blaise1[A.t]Gee[mail][dot][kom]">📧 </a>- nyambi[noSpace]blaise1[A.t]Gee[mail][dot][kom] or via&nbsp;<a href="https://wa.me/+237679194380"><img src="https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&amp;logo=whatsapp&amp;logoColor=white" /></a> - ⚡</p>
 <h2 style="text-align: center;"><strong>BACKGROUND &amp; FOUNDATION</strong></h2>
