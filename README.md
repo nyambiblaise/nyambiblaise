@@ -14,5 +14,7 @@
 <h3 align="left">Support Me:</h3>
 <p><a href="https://campay.net/pay/techworld-solutions-785-1686164481-NY/"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Nyambi Blaise" width="210" height="50" /></a></p>
 <p>&nbsp;</p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nyambiblaise" alt="nyambiblaise" width="100%" align="left" /></p>
+<p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nyambiblaise&type=png" width="100%" alt="GitHub Streak" /></a>
+</p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambiblaise&amp;layout=compact" width="100%" align="left" /> <img src="https://github-readme-stats.vercel.app/api?username=nyambiblaise&amp;show_icons=true&amp;theme=radical" width="100%" /></p>
