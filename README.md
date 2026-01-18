@@ -20,6 +20,7 @@
  
  <strong>2026 Projects:</strong><br />
  🎓 Offensive Security Certified Professional (OSCP)<br />
+ 🎓 Offensive Security Cyber Core (OSCC-SEC)<br />
  🎓 Practical Network Penetration Tester (PNPT)<br />
  🎓 Certified Ethical Hacker (CEH)<br />
  </p>
