@@ -5,7 +5,6 @@
 <p>Email:📫&nbsp;<a href="mailto:nyambi[noSpace]blaise1[A.t]Gee[mail][dot][kom]">📧 </a>- nyambi[noSpace]blaise1[A.t]Gee[mail][dot][kom] or via&nbsp;<a href="https://wa.me/+237679194380"><img src="https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&amp;logo=whatsapp&amp;logoColor=white" /></a> - ⚡</p>
 <h2 style="text-align: center;"><strong>BACKGROUND &amp; FOUNDATION</strong></h2>
 <p>My foundation is built on strong academic achievements, including:<br />🎓 Cyber Security Analysis Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Cloud Development &amp; Operations Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Master of Science in Industrial Computing &amp; Automation<br />🎓 Master of Science in Computer Science<br />🎓 Bachelor of Science in Computer Science<br /><br />I hold multiple industry-standard cybersecurity certifications&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />&nbsp;that support my technical development:
- 
  <br />🎓 CompTIA Cybersecurity Analyst (CySA+)<br />
  🎓 Microsoft Certified: Security Operations Analyst Associate (SC-200)<br />
  🎓 CompTIA Penetration Tester (PenTest+)<br />
@@ -17,14 +16,12 @@
  🎓 CompTIA Security Security Professional (CNSP)<br />
  🎓 CompTIA Security Analytics Professional (CSAP)<br />
  <br />
- 
  <strong>2026 Projects:</strong><br />
  🎓 Offensive Security Certified Professional (OSCP)<br />
  🎓 Offensive Security Cyber Core (OSCC-SEC)<br />
  🎓 Practical Network Penetration Tester (PNPT)<br />
  🎓 Certified Ethical Hacker (CEH)<br />
  </p>
-
 <p>My growing skill set includes experience with:<br />🔹 Penetration Testing (Reconnaissance, Enumeration, Exploitation, Privilege Escalation, Pivoting, Persistence, Reporting)<br />🔹 Attacker's Mindest : To better Defend, I must think like an attacker in every situation. <br />🔹 SIEM tools (Microsoft Sentinel, Splunk, Elastic Stack)<br />🔹 Microsoft Defender Suite (Endpoint, Cloud, Off365, Purview, Identity Protection etc)<br />🔹 Vulnerability management using CVSS and CISA KEV Catalog<br />🔹 Security frameworks such as NIST CSF, NIST SP 800-53, SP 800-61, ISO27001, and ITSG-33<br />🔹 DevSecOps, Cloud Security (Azure), EDR tools, and secure scripting<br />🔹 A team and collaborative member, working on my shyness 🤭 <br /><br />I have a passion for continous learning which is triggered by the zeal of self-growth, and to continue defending digital systems through day-to-day work, personal and professional hands-on projects, and collaborative growth.</p>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="150px" /></p>
 <h3 align="left">My Other Handles:</h3>
