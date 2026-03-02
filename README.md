@@ -6,6 +6,7 @@
 <h2 style="text-align: center;"><strong>BACKGROUND &amp; FOUNDATION</strong></h2>
 <p>My foundation is built on strong academic achievements, including:<br />🎓 Cyber Security Analysis Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Cloud Development &amp; Operations Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Master of Science in Industrial Computing &amp; Automation<br />🎓 Master of Science in Computer Science<br />🎓 Bachelor of Science in Computer Science<br /><br />I hold multiple industry-standard cybersecurity certifications&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />&nbsp;that support my technical development:
  <br />🎓 CompTIA Cybersecurity Analyst (CySA+)<br />
+  🎓 Offensive Security Cyber Core (OSCC-SEC)<br />
  🎓 Microsoft Certified: Security Operations Analyst Associate (SC-200)<br />
  🎓 CompTIA Penetration Tester (PenTest+)<br />
  🎓 CompTIA Cybersecurity Analyst (CySA+)<br />
@@ -18,7 +19,6 @@
  <br />
  <strong>2026 Projects:</strong><br />
  🎓 Offensive Security Certified Professional (OSCP)<br />
- 🎓 Offensive Security Cyber Core (OSCC-SEC)<br />
  🎓 Practical Network Penetration Tester (PNPT)<br />
  🎓 Certified Ethical Hacker (CEH)<br />
  </p>
