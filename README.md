@@ -5,6 +5,7 @@
 <p>Email:📫&nbsp;<a href="mailto:nyambi[noSpace]blaise1[A.t]Gee[mail][dot][kom]">📧 </a>- nyambi[noSpace]blaise1[A.t]Gee[mail][dot][kom] or via&nbsp;<a href="https://wa.me/+237679194380"><img src="https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&amp;logo=whatsapp&amp;logoColor=white" /></a> - ⚡</p>
 <h2 style="text-align: center;"><strong>BACKGROUND &amp; FOUNDATION</strong></h2>
 <p>My foundation is built on strong academic achievements, including:<br />🎓 Cyber Security Analysis Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Cloud Development &amp; Operations Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Master of Science in Industrial Computing &amp; Automation<br />🎓 Master of Science in Computer Science<br />🎓 Bachelor of Science in Computer Science<br /><br />I hold multiple industry-standard cybersecurity certifications&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />&nbsp;that support my technical development:
+ <br />🎓 ISC2 SSCP Systems Security Certified Practitioner (SSCP)<br />
  <br />🎓 CompTIA Cybersecurity Analyst (CySA+)<br />
   🎓 Offensive Security Cyber Core (OSCC-SEC)<br />
  🎓 Microsoft Certified: Security Operations Analyst Associate (SC-200)<br />
