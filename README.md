@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I am Nyambi Blaise (Łăž&yacute; &lt;Dəv /&gt; 007 💻🧠🫣🙈)</h1>
-<p>🔭&nbsp;I am a passionate IT Security Enthusiast🌱 with over 7️⃣ years IT experience in IT Security, IT Support and Software Development, and a strong foundation in DevOps<a href="https://techworld237.com" target="blank">🌐👨&zwj;💻</a> and now working towards specializing in Purple Team operations ( Cyber Incident Response, Threat Hunting, Vulnerability Management, and Threat Intelligence, Threat Hunting, Penetration Testing📝) 💻.</p>
+<p>🔭&nbsp;I am a passionate IT Security Enthusiast🌱 with over 7️⃣ years IT experience combined in IT Support, Software Development, and now IT Security. I'm working towards specializing in Purple Team operations ( Cyber Incident Response, Threat Hunting, Vulnerability Management, and Threat Intelligence, Threat Hunting, Penetration Testing📝) 💻.</p>
 
-<p>Previously, I worked as a Software Developer and contributing to frontend and backend for building web applications where i developed and optimized diverse software for different clients <a href="https://techworld237.com/training-offers/" target="_blank" rel="noopener">👨&zwj;🔧🚀📥🚸</a> . - 💻 I'm currently working as a <strong>Cybersecurity Analyst🌱&nbsp;</strong>in Canada.</p>
+<p>Previously, I worked as a Software Developer and contributing to frontend and backend for building web applications where i developed and optimized diverse software for different clients <a href="https://nyambiblaise.com" target="_blank" rel="noopener">👨&zwj;🔧🚀📥🚸</a> . - 💻 I'm currently working as a <strong>Cybersecurity Analyst🌱&nbsp;</strong>in Canada.</p>
 <p>Email:📫&nbsp;<a href="mailto:nyambi[noSpace]blaise1[A.t]Gee[mail][dot][kom]">📧 </a>- nyambi[noSpace]blaise1[A.t]Gee[mail][dot][kom] or via&nbsp;<a href="https://wa.me/+237679194380"><img src="https://img.shields.io/badge/-Nyambi Blaise-darkgreen?style=flat&amp;logo=whatsapp&amp;logoColor=white" /></a> - ⚡</p>
 <h2 style="text-align: center;"><strong>BACKGROUND &amp; FOUNDATION</strong></h2>
-<p>My foundation is built on strong academic achievements, including:<br />🎓 Cyber Security Analysis Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Cloud Development &amp; Operations Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Master of Science in Industrial Computing &amp; Automation<br />🎓 Master of Science in Computer Science<br />🎓 Bachelor of Science in Computer Science<br /><br />I hold multiple industry-standard cybersecurity certifications&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />&nbsp;that support my technical development:
- <br />🎓 ISC2 SSCP Systems Security Certified Practitioner (SSCP)
- <br />🎓 CompTIA Cybersecurity Analyst (CySA+)<br />
-  🎓 Offensive Security Cyber Core (OSCC-SEC)<br />
- 🎓 Microsoft Certified: Security Operations Analyst Associate (SC-200)<br />
+<p>My foundation is built on strong academic and professional achievements, including:<br />🎓 Cyber Security Analysis Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Cloud Development &amp; Operations Diploma &ndash; Honours (Algonquin College, Ottawa, Canada)<br />🎓 Master of Science in Industrial Computing &amp; Automation<br />🎓 Master of Science in Computer Science<br />🎓 Bachelor of Science in Computer Science<br /><br />I hold multiple industry-standard cybersecurity certifications&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />&nbsp;that support my technical development:<br />
+ 🎓 ISC2 SSCP Systems Security Certified Practitioner (SSCP)<br />
  🎓 CompTIA Penetration Tester (PenTest+)<br />
+ 🎓 Microsoft Certified: Security Operations Analyst Associate (SC-200)<br />
  🎓 CompTIA Cybersecurity Analyst (CySA+)<br />
+ 🎓 Offensive Security Cyber Core (OSCC-SEC)<br />
  🎓 CompTIA Security+<br />
  🎓 Microsoft Security, Identity and Compliance Fundamentals (SC-900)<br />
  🎓 ISC2 Certified in Cybersecurity (CC)<br />
@@ -21,6 +20,7 @@
  <strong>2026 Projects:</strong><br />
  🎓 Offensive Security Certified Professional (OSCP)<br />
  🎓 Practical Network Penetration Tester (PNPT)<br />
+ 🎓 CompTIA SecurityX (CASP+)<br />
  🎓 Certified Ethical Hacker (CEH)<br />
  </p>
 <p>My growing skill set includes experience with:<br />🔹 Penetration Testing (Reconnaissance, Enumeration, Exploitation, Privilege Escalation, Pivoting, Persistence, Reporting)<br />🔹 Attacker's Mindest : To better Defend, I must think like an attacker in every situation. <br />🔹 SIEM tools (Microsoft Sentinel, Splunk, Elastic Stack)<br />🔹 Microsoft Defender Suite (Endpoint, Cloud, Off365, Purview, Identity Protection etc)<br />🔹 Vulnerability management using CVSS and CISA KEV Catalog<br />🔹 Security frameworks such as NIST CSF, NIST SP 800-53, SP 800-61, ISO27001, and ITSG-33<br />🔹 DevSecOps, Cloud Security (Azure), EDR tools, and secure scripting<br />🔹 A team and collaborative member, working on my shyness 🤭 <br /><br />I have a passion for continous learning which is triggered by the zeal of self-growth, and to continue defending digital systems through day-to-day work, personal and professional hands-on projects, and collaborative growth.</p>
