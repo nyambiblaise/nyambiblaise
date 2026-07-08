@@ -13,6 +13,8 @@
  🎓 CompTIA Security+<br />
  🎓 Microsoft Security, Identity and Compliance Fundamentals (SC-900)<br />
  🎓 ISC2 Certified in Cybersecurity (CC)<br />
+ <br />
+ <strong>Stackable:</strong><br />
  🎓 CompTIA Network Vulnerability Professional (CNVP)<br />
  🎓 CompTIA Security Security Professional (CNSP)<br />
  🎓 CompTIA Security Analytics Professional (CSAP)<br />
